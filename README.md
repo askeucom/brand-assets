@@ -3,7 +3,10 @@
 Official AskEU logos, colours and images.
 
 <p>
-  <img src="askeu-logo.png" alt="AskEU logo" width="300">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="askeu-logo-white.png">
+    <img src="askeu-logo.png" alt="AskEU logo" width="300">
+  </picture>
 </p>
 
 ## Files
